@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_scheme"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/scheme" />
+        <item
+            android:id="@+id/nav_syllabus"
+            android:icon="@drawable/ic_syllabus"
+            android:title="@string/syllabus" />
+        <item
+            android:id="@+id/nav_time_table"
+            android:icon="@drawable/ic_time_table"
+            android:title="@string/time_table" />
+        <item
+            android:id="@+id/nav_examination_form"
+            android:icon="@drawable/ic_examination_form"
+            android:title="@string/examination_form" />
+        <item
+            android:id="@+id/nav_check_result"
+            android:icon="@drawable/ic_check_result"
+            android:title="@string/check_result" />
+        <item
+            android:id="@+id/nav_student_welfare_department"
+            android:icon="@drawable/ic_swd"
+            android:title="@string/student_welfare_department" />
+        <item
+            android:id="@+id/nav_forms"
+            android:icon="@drawable/ic_forms"
+            android:title="@string/forms" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+    </group>
+
+</menu>

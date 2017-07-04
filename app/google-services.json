@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "52287966840",
+    "firebase_url": "https://pocket-rgpv-6da19.firebaseio.com",
+    "project_id": "pocket-rgpv-6da19",
+    "storage_bucket": "pocket-rgpv-6da19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52287966840:android:ee8e6f0ab4f7f861",
+        "android_client_info": {
+          "package_name": "com.example.heisenberg.pocket_rgpv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52287966840-p5k2k7pnc5860ngugo38ugmhs2m7q9t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heisenberg.pocket_rgpv",
+            "certificate_hash": "7ec61a9d4553eb1be8d34fb64955823fde9655a5"
+          }
+        },
+        {
+          "client_id": "52287966840-ijg71kq7si8ddjqd2os4l7apmvha0lru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqnOurJBzUX3sovYPk1dO1eCIWJd9HGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52287966840-ijg71kq7si8ddjqd2os4l7apmvha0lru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

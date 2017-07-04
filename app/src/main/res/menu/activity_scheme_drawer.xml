@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_bach_engineering"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/bach_engineering" />
+        <item
+            android:id="@+id/nav_bach_pharmacy"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/bach_pharmacy" />
+        <item
+            android:id="@+id/nav_diploma"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/diploma" />
+        <item
+            android:id="@+id/nav_mas_comptuer_application"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/mas_computer_application" />
+        <item
+            android:id="@+id/nav_mas_engineering"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/mas_engineering" />
+        <item
+            android:id="@+id/nav_mas_pharmacy"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/mas_pharmacy" />
+        <item
+            android:id="@+id/nav_be_ptdc"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/be_ptdc" />
+        <item
+            android:id="@+id/nav_bach_architechture"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/bach_architechture" />
+        <item
+            android:id="@+id/nav_ddi_pg"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/ddi_pg" />
+        <item
+            android:id="@+id/nav_mas_technology_part_time"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/mas_technology_part_time" />
+        <item
+            android:id="@+id/nav_mam_dual_degree"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/mam_dual_degree" />
+        <item
+            android:id="@+id/nav_mca_dual_degree"
+            android:icon="@drawable/ic_schemes"
+            android:title="@string/mca_dual_degree" />
+    </group>
+
+</menu>

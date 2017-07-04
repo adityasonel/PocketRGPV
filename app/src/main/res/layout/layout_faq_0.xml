@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_faq_0"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="8dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:text="@string/app_name"/>
+
+    <View
+        android:id="@+id/lineHelp0"
+        android:layout_width="match_parent"
+        android:layout_height="0.75dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="@string/faq_0"
+        android:textSize="18sp"
+        android:textAlignment="textStart"
+        android:lineSpacingExtra="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/faq_0_1"
+        android:textSize="18sp"
+        android:lineSpacingExtra="2dp" />
+
+    <View
+        android:id="@+id/lineHelp1"
+        android:layout_width="match_parent"
+        android:layout_height="0.75dp"
+        android:layout_marginTop="6dp"
+        android:background="@color/colorPrimary" />
+    </LinearLayout>
+</ScrollView>

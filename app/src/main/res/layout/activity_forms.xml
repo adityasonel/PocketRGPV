@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutForms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/lineHelp1"
+            android:layout_width="5dp"
+            android:layout_height="22dp"
+            android:layout_alignBottom="@+id/faq"
+            android:background="@color/colorPrimary"/>
+
+        <TextView
+            android:text="@string/forms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:textSize="20sp"
+            android:id="@+id/faq" />
+
+        <View
+            android:id="@+id/lineHelp2"
+            android:layout_width="match_parent"
+            android:layout_height="0.75dp"
+            android:layout_marginTop="34dp"
+            android:background="@color/colorPrimary" />
+
+    </RelativeLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listViewForms"
+        android:entries="@array/forms">
+    </ListView>
+
+</LinearLayout>

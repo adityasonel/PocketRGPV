@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Pocket RGPV</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="promotion">Promotions</string>
+    <string name="refresh">Refresh</string>
+    <string name="home">Home</string>
+    <string name="stop">Stop</string>
+
+    <string name="latest_alerts"># LATEST ALERTS</string>
+
+
+    <string name="saved">Saved</string>
+    <string name="scheme">Scheme</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="time_table">Time Table</string>
+    <string name="examination_form">Examination Form</string>
+    <string name="check_result">Check Result</string>
+    <string name="student_welfare_department">Student Welfare Department</string>
+    <string name="forms">Forms</string>
+
+    <string name="visit_rgpv">Visit Rgpv.ac.in</string>
+
+    <string name="help">Help</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about">About</string>
+
+    <string name="version">V 1.0.0</string>
+    <string name="copyright">Copyright 2017</string>
+    <string name="description">Pocket RGPV | V 1.0.0</string>
+
+    <string name="developer_name">Creative Devs</string>
+
+    <string name="team_member">Team Member\'s</string>
+    <string name="member_name">Vedanshu Tiwari, Aditya Sonel, Ankur Soni, Hansraj Meena, Gourav Neema, Faim Sheikh, Rahul Dhote, Rajendra Ojha,
+                                    Shrivatsa Malviya, Nitesh Pandey, Hitesh Pariyani and many more friends.</string>
+
+    <string name="description_para">Born by the passion and a dream of friends, brought to
+                                        life thanks to a wonderful collaboration started with
+                                            an amazing guy.</string>
+
+    <string name="facebook_btn">Like us on Facebook</string>
+    <string name="contact_us_btn">Contact Us</string>
+    <string name="about_btn">About Developer</string>
+    <string name="rate_us_btn">Rate us</string>
+
+    <string name="feedback_btn">Send feedback</string>
+
+    <string name="faq">FAQ\'s</string>
+
+    <string name="content_description"></string>
+
+    <string name="faq_0">Pocket RGPV is a mobile version of RGPV website. It consist almost all features that is useful for students like
+                    syllabus, schemes, time table, result, latest notification and some useful links. We are continuously working to make
+                    Pocket RGPV more better. Keep supporting us, keep giving feedback to make Pocket RGPV more better, Thanks !!!</string>
+
+    <string name="faq_0_1">Creative Devs\nPocket RGPV\nV 1.0.0</string>
+
+    <string name="faq_1_q">Calculation of CGPA &amp; SGPA</string>
+    <string name="faq_1_1">The Semester Grade Points Average (SGPA) and Cumulative Grade Point Average (CGPA) shall be calculated as under :-</string>
+    <string name="faq_1_2">Where Ci is the  number of credits offered in the i th subject of a semester for which SGPA
+                            is to be calculated , Pi is the corresponding grade point earned in the i th subject,
+                            where i = 1,2,...n , are the number of subjects in that semester.</string>
+    <string name="faq_1_3">here NCj is the number of total credits offered in the j th semester, SGj is the SGPA
+                            earned in the j th semester, where j = 1,2,...m, are the number of semesters in that programme.</string>
+
+    <string name="faq_2">Calculation of Percentage</string>
+    <string name="faq_2_1">The conversion from grade to an equivalent percentage in a given academic program shall be
+                            according to the following formula applicable to credit base grade system:</string>
+    <string name="faq_2_2">{ All information based on the Ordinance no. 30 Section 40(1) issued by RGPV, Bhopal }</string>
+
+    <string name="faq_3">Credit Based Grading System</string>
+    <string name="faq_3_1">Each student, registered for a programme, shall be awarded grade by the concerned faculty /
+                            faculties for the specific subject/paper. The grades awarded to a student shall depend
+                            upon his continuous evaluation through performance in various examinations, assignments,
+                            quizzes, laboratory work, internship, class work, mid semester test and regularity. The
+                            grades to be used and their numerical equivalents are as under :</string>
+
+    <string name="faq_4">Award of division</string>
+    <string name="faq_4_1">Division shall be awarded only after the final semester examination based on
+                            integrated performance of the candidate for all the years as per following details :</string>
+    <string name="faq_4_2">The conversion from grade to an equivalent percentage in a given academic program shall be
+                            according to the following formula applicable to credit base grade system:</string>
+    <string name="faq_4_3">Percentage marks = CGPA Obtained x 10</string>
+
+    <string name="faq_5">Promotion to Higher Semester Under Credit Based Grading System:-</string>
+    <string name="faq_5_1">The criteria for continuation of study is as follows: </string>
+    <string name="faq_5_2">1) To clear a particular subject the required grade and grade point  is D (4.0).</string>
+    <string name="faq_5_3">2) For promotion to next higher class, the required Cumulative Grade Point Average
+                                (CGPA) at the end of even semester is 5.0 and Cumulative Grade Point Average (CGPA) for completion of
+                                course/degree is also 5.0. For calculating CGPA, in a given year at the End of even semester, the marks
+                                obtained in the odd &amp; even semester of that year shall only be considered. </string>
+    <string name="faq_5_4">3) The criteria for promotion to the next higher odd semester shall be governed by concerned ordinance of University.</string>
+    <string name="faq_5_5">{ All information based on the Ordinance no. 30 Section 40(1) issued by RGPV, Bhopal }</string>
+
+    <string name="faq_6">System of Calculating Total Aggregate</string>
+    <string name="faq_6_1">The degree course consists of 8 semester (4 year). The system of calculating the aggregate of total
+                                course is as follows:</string>
+    <string name="faq_6_2">1.	10% weightage of First Year\n2.	20% weightage of Second Year\n3.	30% weightage of Third Year
+                                \n4.	100% weightage of Fourth Year</string>
+    <string name="faq_6_3">{ All information based on the Transcript Format issued by RGPV, Bhopal }</string>
+
+    <string name="feedback">Send feedback</string>
+
+    <string name="show_notification">Show notification</string>
+    <string name="notification_message">Turn on this setting to receive\nnotifications like, exam form,\ntime table, result etc</string>
+    <string name="report_error">Report error</string>
+    <string name="notification">Notification</string>
+    <string name="support">Support</string>
+
+    <string name="bach_engineering">B.E.</string>
+    <string name="bach_pharmacy">B.Pharma</string>
+    <string name="diploma">Diploma</string>
+    <string name="mas_computer_application">MCA</string>
+    <string name="mas_engineering">M.E.</string>
+    <string name="mas_pharmacy">M.Pharma</string>
+    <string name="mas_technology">M.Tech</string>
+    <string name="be_ptdc">BE-PTDC</string>
+    <string name="bach_architechture">B.Arch</string>
+    <string name="ddi_pg">DDI-PG</string>
+    <string name="mas_technology_part_time">M.Tech(Part Time)</string>
+    <string name="mam_dual_degree">MAM Dual Degree</string>
+    <string name="mca_dual_degree">MCA Dual Degree</string>
+
+    <string name="no_syllabus_scheme_found">No syllabus / scheme found !</string>
+    <string name="no_syllabus_scheme_found_tagline">There is no syllabus / scheme available for Diploma !</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="swdDocument">
+        <item>Prevention and prohibition of Ragging</item>
+        <item>Affidavit of AICTE regarding Anti Ragging</item>
+        <item>AICTE Notification regarding Anti Ragging</item>
+        <item>Circular 01 regarding Anti Ragging</item>
+        <item>Circular 02 regarding Anti Ragging</item>
+        <item>Circular 03 regarding Anti Ragging</item>
+        <item>Financial assistance for accidental death or permanent disability</item>
+    </string-array>
+
+    <string-array name="forms">
+        <item>Transcript Format</item>
+        <item>Degree Form</item>
+        <item>Duplicate Marksheet Form</item>
+        <item>Migration/Provisional Certificate</item>
+        <item>Duplicate Degree Form</item>
+        <item>Enrollment Form</item>
+        <item>Examination Application Form</item>
+    </string-array>
+
+    <string-array name="faq">
+        <item>Pocket RGPV</item>
+        <item>Calculation of CGPA &amp; SGPA</item>
+        <item>Calculation of Percentage</item>
+        <item>Credit Based Grading System</item>
+        <item>Award of Division</item>
+        <item>Promotion to Higher Semester Under CBGS</item>
+        <item>System of Calculating Total Aggregate</item>
+    </string-array>
+
+    <string name="dsw_department">D.S.W Department</string>
+    
+    <string name="form">Form</string>
+    <string name="result">Result</string>
+    <string name="miscellaneous">Miscellaneous</string>
+</resources>

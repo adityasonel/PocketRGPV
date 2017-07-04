@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="16dp"
+    android:id="@+id/aboutUs">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/shape1"
+            android:layout_width="5dp"
+            android:layout_height="22dp"
+            android:layout_alignBottom="@+id/developer_name"
+            android:background="@color/colorPrimary"/>
+
+        <TextView
+            android:text="@string/developer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:textSize="20sp"
+            android:id="@+id/developer_name" />
+
+        <View
+            android:id="@+id/lineHelp1"
+            android:layout_width="match_parent"
+            android:layout_height="0.75dp"
+            android:layout_marginTop="34dp"
+            android:background="@color/colorPrimary" />
+
+    <TextView
+        android:text="@string/description_para"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_below="@+id/lineHelp1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="16dp"
+        android:textAlignment="viewStart"
+        android:textSize="18sp" />
+
+    </RelativeLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/shape2"
+            android:layout_width="5dp"
+            android:layout_height="22dp"
+            android:layout_alignBottom="@+id/faq"
+            android:background="@color/colorPrimary"/>
+
+        <TextView
+            android:text="@string/team_member"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:textSize="20sp"
+            android:id="@+id/faq" />
+
+        <View
+            android:id="@+id/lineHelp2"
+            android:layout_width="match_parent"
+            android:layout_height="0.75dp"
+            android:layout_marginTop="34dp"
+            android:background="@color/colorPrimary" />
+
+        <TextView
+            android:text="@string/member_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:layout_below="@+id/lineHelp2"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="16dp"
+            android:textAlignment="viewStart"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+
+</LinearLayout>
